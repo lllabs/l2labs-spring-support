@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+    id 'java-library'
+}
+
+description = "l2labs java utils"
+
+jar.enabled(true)
+
+dependencies {
+}
